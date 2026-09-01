@@ -68,19 +68,3 @@ PRs welcome. Add a maturity tag (`**[production]** / **[beta]** / **[experimenta
 ## License
 
 CC0 1.0
-
-// updated: iteration 7
-
-// updated: iteration 8
-
-// updated: iteration 9
-
-// updated: iteration 11
-
-// updated: iteration 12
-
-// updated: iteration 18
-
-<!-- v1000 -->
-
-<!-- v1001 -->
