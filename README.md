@@ -47,6 +47,7 @@ These are Stylus/WASM contracts — standard `ERC-20` interface, non-standard VM
 
 ## Developer Tools
 
+- **[beta]** [BlockVectra Agent Quickstart](https://github.com/blockvectra/agent-quickstart) — TypeScript example that checks chain ID 4663 before reading Robinhood Chain mainnet block height; the public-read command needs no wallet or API key.
 - [Foundry](https://book.getfoundry.sh) — smart contract development
   - v4 fork tests require `evm_version = "cancun"` for transient storage
   - RPC requires browser User-Agent header (Cloudflare protection)
